@@ -1,0 +1,24 @@
+{
+  "name": "web-chat-app",
+  "version": "1.0.0",
+  "description": "Realtime chat app",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vanshul-Dahiya/Web-Chat-app.git"
+  },
+  "author": "Vanshul Dahiya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vanshul-Dahiya/Web-Chat-app/issues"
+  },
+  "homepage": "https://github.com/Vanshul-Dahiya/Web-Chat-app#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4",
+    "socket.io": "^4.5.4"
+  }
+}
